@@ -106,10 +106,11 @@ python extract.py --image_path /path/to/image --model_path /path/to/model
 }
 ```
 
-## Contributors
+## Contributor
 - Shubh Kamra
 - Himanshu Dahiya
 - Shubhomakar Mahato
 - Jatin Yadav
 - Mohit Agarwal
+  
 
